@@ -9,6 +9,7 @@ function App() {
         <p>
           Hola Platzi! Soy tú estudiante...
           new edition juan
+          otro prueba desde visual code
         </p>
         <a
           className="App-link"
